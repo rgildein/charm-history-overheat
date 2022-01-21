@@ -1,0 +1,9 @@
+# Copyright 2022 Unicorn
+# See LICENSE file for licensing details.
+
+# For a complete list of supported options, see:
+# https://discourse.charmhub.io/t/charm-metadata-v2/3674/15
+name: history-overheat
+display-name: history-overheat
+description: Test charm for history overheat.
+summary: Test charm for history overheat.

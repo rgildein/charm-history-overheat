@@ -1,0 +1,14 @@
+# Copyright 2022 Unicorn
+# See LICENSE file for licensing details.
+#
+# Learn more about config at: https://juju.is/docs/sdk/config
+
+options:
+  history:
+    default: true
+    description: Enable or disable config history tracking.
+    type: boolean
+  test-key:
+    default: "short string"
+    description: Test option
+    type: string
